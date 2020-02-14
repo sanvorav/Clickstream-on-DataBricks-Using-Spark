@@ -1,4 +1,4 @@
-# Clickstream Analysis on Databricks Using Spark
+# Clickstream Analysis on Databricks Using Spark (PySpark)
 
 Analyzing clickstream data from Germany.
 
@@ -13,4 +13,10 @@ Analyzing clickstream data from Germany.
   - Accuracy
   - Confustion Matrix
 - SQL Queries
+
+# Recommender System
+
+Using collaborative filtering for latent feature discovery. We are wanting to find impressions that users would likely click. We use Alternate Least Square technique to perform matrix factorization to rank the offers for the users.
+
+** Note that this project is not tuned for the best solution **
   
